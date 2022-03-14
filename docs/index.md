@@ -40,3 +40,8 @@ Question 2:
 Question 3:
 
 * I would say that red tape is definitely blocking digital empowerment. Examples of red tape blocking digital empowerment at Del Norte include certain websites or applications being blocked on the school wifi network. These websites and applications could potentially be useful in the classroom and support the learning of students, but red tape is blocking access to these websites and applications. An example of red tape blocking digital empowerment elsewhere is the great firewall of China. The great firewall of China severely restricts the websites that people in China have access to, thus preventing people from becoming empowered in the digital world.
+
+## GitHub Acitivites
+
+
+## Create Task Code Run-Time:
