@@ -8,6 +8,46 @@
 
 [Code](https://github.com/RohanG326/supporting_cast/blob/main/createtask/templates/brian_divya_create_task.html)
 
+```
+
+        function startGame (difficulty) {
+            document.getElementById("message").innerText = "";
+            //choose the array to select from based on difficulty
+            let arrayToChooseFrom;
+            if (difficulty==0){
+                arrayToChooseFrom=fiveLetter;
+            }
+            else if (difficulty==1){
+                arrayToChooseFrom=sevenLetter;
+            }
+            else if (difficulty==2){
+                arrayToChooseFrom=nineLetter;
+            }
+            //select a word
+            word = arrayToChooseFrom[Math.floor(Math.random() * arrayToChooseFrom.length)];
+            //reset checkedLetters and wrongGuess
+            checkedLetters = [];
+            wrongGuess = 0;
+            //set letterCheckArray to an array length = word length filled with false, except spaces are true
+            letterCheckArray = [];
+            for (let i=0; i<word.length; i++){
+                letterCheckArray.push(false);
+            }
+            //hide difficulty selection elements
+            document.getElementById("selection").style.display="none";
+            //show game elements
+            document.getElementById("game").style.display="block";
+            //if hard mode, reduce lives by 1
+            if (difficulty==2){
+                guess(7);
+            }
+            //update display
+            displayWord();
+        }
+  ```
+  ```
+  
+  ```
 ## Week 0 Review Ticket
 
 [Review Ticket](https://github.com/bgt072105/curly-ladle/issues/1)
