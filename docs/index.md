@@ -21,6 +21,18 @@ Key Takeaways:
 * I learned how to implement menus and submenus
 * I learned how to call functions through the use of menus
 
+'''
+main_menu = [
+    ["swapNumbers", swapNumbers.swapnumbers],
+    ["matrix", matrix.keypad],
+]
+
+sub_menu = [
+    ["Tree", tree.tree],
+    ["Funcy", funcy.person],
+]
+'''
+
 ## 5.1 Notes
 * People create computing innovations that often are incorporated into the ways that they do certain tasks
 * The effects of a particular computing innovation can not always be predicted beforehand
