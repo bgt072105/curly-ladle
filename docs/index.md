@@ -1,5 +1,13 @@
 ## Brian Tang GitHub Page
 
+## Create Task Code Run-Time:
+
+[Brian's Create Task](https://github.com/RohanG326/supporting_cast/wiki/Brian-Tang-Create-Task-Write-Up-and-Video)
+
+[Runtime Video](https://www.loom.com/share/39ac2521c2224812976c08c03384f3f2)
+
+[Code](https://github.com/RohanG326/supporting_cast/blob/main/createtask/templates/brian_divya_create_task.html)
+
 ## Week 0 Review Ticket
 
 [Review Ticket](https://github.com/bgt072105/curly-ladle/issues/1)
@@ -10,14 +18,6 @@
 Key Takeaways:
 * I learned how to implement menus and submenus
 * I learned how to call functions through the use of menus
-
-## Create Task Code Run-Time:
-
-[Brian's Create Task](https://github.com/RohanG326/supporting_cast/wiki/Brian-Tang-Create-Task-Write-Up-and-Video)
-
-[Runtime Video](https://www.loom.com/share/39ac2521c2224812976c08c03384f3f2)
-
-[Code](https://github.com/RohanG326/supporting_cast/blob/main/createtask/templates/brian_divya_create_task.html)
 
 ## 5.1 Notes
 * People create computing innovations that often are incorporated into the ways that they do certain tasks
