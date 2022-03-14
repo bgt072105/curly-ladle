@@ -13,7 +13,9 @@
 [Review Ticket](https://github.com/bgt072105/curly-ladle/issues/1)
 
 ## GitHub Acitivites
-[Major Commit (from Replit)](https://github.com/bgt072105/curly-ladle/commit/76c23152314b69f9234e98475552dedd69916de0)
+[Major Commit (on GitHub)](https://github.com/bgt072105/curly-ladle/commit/76c23152314b69f9234e98475552dedd69916de0)
+
+[Code on Replit](https://replit.com/join/shwebjagoo-bgt072105)
 
 Key Takeaways:
 * I learned how to implement menus and submenus
