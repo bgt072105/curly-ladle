@@ -51,3 +51,7 @@ Key Takeaways:
 ## Create Task Code Run-Time:
 
 [Brian's Create Task](https://github.com/RohanG326/supporting_cast/wiki/Brian-Tang-Create-Task-Write-Up-and-Video)
+
+[Runtime Video](https://www.loom.com/share/39ac2521c2224812976c08c03384f3f2)
+
+[Code](https://github.com/RohanG326/supporting_cast/blob/main/createtask/templates/brian_divya_create_task.html)
