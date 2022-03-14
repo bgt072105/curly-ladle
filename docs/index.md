@@ -32,6 +32,19 @@ sub_menu = [
     ["Funcy", funcy.person],
 ]
 ```
+```
+def person_print(position):
+    print(ANSI_HOME_CURSOR)
+    print(RESET_COLOR)
+    sp = " " * position
+    print(sp + "  \ O / ")
+    print(sp + "   \|/  ")
+    # print(SHIP_COLOR, end="")
+    print(sp + "    | ")
+    print(sp + "   / \  ")
+    print(sp + "  /   \  ")
+    print(RESET_COLOR)
+ ```
 
 ## 5.1 Notes
 * People create computing innovations that often are incorporated into the ways that they do certain tasks
