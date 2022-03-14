@@ -1,5 +1,24 @@
 ## Brian Tang GitHub Page
 
+## Week 0 Review Ticket
+
+[Review Ticket](https://github.com/bgt072105/curly-ladle/issues/1)
+
+## GitHub Acitivites
+[Major Commit (from Replit)](https://github.com/bgt072105/curly-ladle/commit/76c23152314b69f9234e98475552dedd69916de0)
+
+Key Takeaways:
+* I learned how to implement menus and submenus
+* I learned how to call functions through the use of menus
+
+## Create Task Code Run-Time:
+
+[Brian's Create Task](https://github.com/RohanG326/supporting_cast/wiki/Brian-Tang-Create-Task-Write-Up-and-Video)
+
+[Runtime Video](https://www.loom.com/share/39ac2521c2224812976c08c03384f3f2)
+
+[Code](https://github.com/RohanG326/supporting_cast/blob/main/createtask/templates/brian_divya_create_task.html)
+
 ## 5.1 Notes
 * People create computing innovations that often are incorporated into the ways that they do certain tasks
 * The effects of a particular computing innovation can not always be predicted beforehand
@@ -40,18 +59,3 @@ Question 2:
 Question 3:
 
 * I would say that red tape is definitely blocking digital empowerment. Examples of red tape blocking digital empowerment at Del Norte include certain websites or applications being blocked on the school wifi network. These websites and applications could potentially be useful in the classroom and support the learning of students, but red tape is blocking access to these websites and applications. An example of red tape blocking digital empowerment elsewhere is the great firewall of China. The great firewall of China severely restricts the websites that people in China have access to, thus preventing people from becoming empowered in the digital world.
-
-## GitHub Acitivites
-[Major Commit (from Replit)](https://github.com/bgt072105/curly-ladle/commit/76c23152314b69f9234e98475552dedd69916de0)
-
-Key Takeaways:
-* I learned how to implement menus and submenus
-* I learned how to call functions through the use of menus
-
-## Create Task Code Run-Time:
-
-[Brian's Create Task](https://github.com/RohanG326/supporting_cast/wiki/Brian-Tang-Create-Task-Write-Up-and-Video)
-
-[Runtime Video](https://www.loom.com/share/39ac2521c2224812976c08c03384f3f2)
-
-[Code](https://github.com/RohanG326/supporting_cast/blob/main/createtask/templates/brian_divya_create_task.html)
