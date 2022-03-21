@@ -8,10 +8,16 @@ import funcy
 import swapNumbers
 import matrix
 # import patterns
+from info import infoDB
+from factorial import fac_tester
+from fibonacci import fib_tester
 
 main_menu = [
     ["swapNumbers", swapNumbers.swapnumbers],
     ["matrix", matrix.keypad],
+    ["info", infoDB],
+    ["fibonacci", fib_tester],
+    ["factorial", fac_tester],
 ]
 
 sub_menu = [
