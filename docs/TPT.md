@@ -2,6 +2,57 @@
 
 ### TPT Activites
 
+## 5.3 Notes
+* Computing innovations can reflect existing human biases because the people who created the innovation may have been biased or the data used by the innovation may be biased
+* Programmers should try to minimize the bias in their algorithms used for computing innovations in order to combat existing human biases
+* Biases can occur at all levels of software development
+* Biases are evident on Netflix as Netflix original shows are typically featured more prominently than other shows
+* Companies direct content towards based on what they think your interests are
+* Biases have the potential to either be intentionally or accidentally harmful or beneficial to certain groups of people
+
+## 5.4 Notes
+* Widespread access to information and public data allows for problems to be indentified, solutions to be developed, and for results to be shared
+* Citizen science is a valuable tool for solving scientific problems
+* Citizen science is way of conducting scientific research where distributed individuals who may or may not be scientists contrbiute their own data to research using their own computing devices
+* People can give their own feedback and input for public data sets
+* With distributed computing spare computing power can be donated to help with calculations
+
+## 5.3 Activity
+HP Video:
+* Black man is using the face tracking software of a state of the art HP computer
+* The computer camera is supposed to follow the face of the man as he moves
+* When a white person steps into frame, the computer's camera instantly recognizes their face and starts to track it
+* The camera pans in and out and follows the white woman's face around
+* As soon as the black man steps back into frame, the computer is no longer following a face
+
+Question 1:
+
+* The owner of the compter does not appear to think that this bias was intentional. Rather, he appears to think that this is just an unfortunate result of the way this computing innovation was designed. 
+* I concluded this based on the fact that he appears to be joking about the situation, rather than becoming angry which is another indication that he likely did not think that this was intentional.
+
+Question 2:
+
+* I think that this happened as a result of the envrionment that the HP computer was created in. It is likely that the people who created the computer were white and thus designed a solution that would work for people with the same skin tone, failing to account for people with differing skin tones. During the testing process for this computing innovation, the computing innovation was likely only tested on white test subjects. Once it was found to work with white test subjects, the engineers likely concluded that the innovation was complete, not accounting for people of different skin tones.
+
+Question 3:
+
+* This is both harmful and exclusive because it means that owners of this computing innovation that are black do not get to utilize the same features of the same product as users that are white. I do not think that it was intedned to be harmful or exclusive, but rather it was just an unforunate result of the development process for this computing innovation.
+
+Question 4:
+
+* This issue should definitely be correct so that in the future humans of all races and skin tones can be able to utilize this computing innovation equally and to its fullest capabilities.
+
+Question 5:
+
+* In order to produce a better outcome, more testing is needed during the development process of new computing innovations. During the testing process, more people from different backgrounds should be brought in to diversify the audience that the product will be able to work with once it is released.
+
+## 5.4 Activity
+
+Question 1:
+
+* One potential crowdsource idea for our CompSci class would be for classmates to give each other feedback on their websites and potential features they'd like to see implemented on others websites. Crowdsourcing would be beneficial in this situation because people can receive input from a wide variety of peers with different backgrounds and perspectives. If a group is having trouble coming up with a new feature to implement on their website, crowdsourcing can help them come up with ideas that they otherwise may have not had. This could be initiated in our envrionment by having all groups create google forms where once a week, other groups need to fill out the form and give input and provide ideas.
+* Crowdsourcing at Del Norte could appear in the form of a forum where people can share their experiences with certain classes and teachers. By sharing experiences with certain classes and teachers, students who have already taken those classes can help students who are interested in taking those classes make the final decision of whether or not they do take that class. Our project could definitely be benefited by crowdsourcing because crowdsourcing would allow us to find out what books are popular at the moment and we can add those books accordingly to a recommended books section on our webpage.
+
 ## 5.1 Notes
 * People create computing innovations that often are incorporated into the ways that they do certain tasks
 * The effects of a particular computing innovation can not always be predicted beforehand
