@@ -19,4 +19,4 @@ def fib_tester():
         print("invalid")
 
 if __name__ == "__main__":
-    fibonacci_tester()
+    fib_tester()

@@ -18,4 +18,4 @@ def fac_tester():
         print("Invalid input")
 
 if __name__ == "__main__":
-    factorialTester()
+    fac_tester()

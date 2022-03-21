@@ -87,4 +87,4 @@ def infoDB():
     recursive_loop(0)  # requires initial index to start recursion
 
 if __name__ == "__main__":
-    tester()
+    infoDB()
