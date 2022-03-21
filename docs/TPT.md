@@ -2,6 +2,8 @@
 
 ### TPT Activites
 
+### Week 1
+
 ## 5.3 Notes
 * Computing innovations can reflect existing human biases because the people who created the innovation may have been biased or the data used by the innovation may be biased
 * Programmers should try to minimize the bias in their algorithms used for computing innovations in order to combat existing human biases
@@ -52,6 +54,8 @@ Question 1:
 
 * One potential crowdsource idea for our CompSci class would be for classmates to give each other feedback on their websites and potential features they'd like to see implemented on others websites. Crowdsourcing would be beneficial in this situation because people can receive input from a wide variety of peers with different backgrounds and perspectives. If a group is having trouble coming up with a new feature to implement on their website, crowdsourcing can help them come up with ideas that they otherwise may have not had. This could be initiated in our envrionment by having all groups create google forms where once a week, other groups need to fill out the form and give input and provide ideas.
 * Crowdsourcing at Del Norte could appear in the form of a forum where people can share their experiences with certain classes and teachers. By sharing experiences with certain classes and teachers, students who have already taken those classes can help students who are interested in taking those classes make the final decision of whether or not they do take that class. Our project could definitely be benefited by crowdsourcing because crowdsourcing would allow us to find out what books are popular at the moment and we can add those books accordingly to a recommended books section on our webpage.
+
+### Week 0
 
 ## 5.1 Notes
 * People create computing innovations that often are incorporated into the ways that they do certain tasks
