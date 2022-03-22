@@ -4,7 +4,7 @@
 
 ## Replit Runtime
 
-<iframe height="1000px" width="600px" src="https://replit.com/@bgt072105/curly-ladle?lite=true#main.py"></iframe>
+<iframe height="1000px" width="1200px" src="https://replit.com/@bgt072105/curly-ladle?lite=true#main.py"></iframe>
 
 ### Week 1
 [Major Commit (on GitHub)](https://github.com/bgt072105/curly-ladle/commit/421a528084577742ca3caa54ae8882048602d509)
