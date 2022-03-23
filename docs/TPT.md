@@ -2,6 +2,38 @@
 
 ### TPT Activites
 
+### Week 2
+
+## 5.5 Notes
+
+* Open source: programs are made freely avaiable and may be redistributed and modified
+* Open access: Online research output free of any and all restriction on access and free of many restrictions on use, such as copyright or license restrictions
+* Intellectual Property (IP): a work or invention that is the result of creativity ot which one has rights
+* Material created on a computer is the intellectual property of the creator or an organization
+* The ease of access and distribution of digitized information raises concerns over the ownership, value, and use of intellectual property
+* Intellectual property must be protected
+* You should always cite material created by others when you use it
+* Creative Commons, open source, and open access are legal ways to use material created by someone else
+* Using computing to harm individuals or groups of people raises legal and ethical concerns
+* Copyright protects your IP and keeps anyone from using it, unless you give them your permission
+* Creative Commons provides free licenses that you can use to tell others how you want them to use your creations
+
+## 5.6 Notes
+
+* Personally identifiable information (PII) is information about an individual that identifies, links, relates, or describes them
+* Search engines can record and maintain a history of searches made by users
+* Websites can record and maintain a history of individuals who have viewed their pages
+* Devices, websites, and netowkrs can collect information about a user's location
+* Technology enables the collection, use, and exploitation of information about, by, and for individuals, groups, and instituions
+* Search engines can use search history to suggest websites or for targeted marketing
+* Disparate personal data, such as geolocation, cookies, and browsing history, can be aggregated to create knowledge about an individual
+* PII and other information placed online can be used to enhance a user's online experiences
+* PII stored online can be used to simplify making online purchases
+* Commercial and government curation of information may be exploited if privacy and other protections are ignored
+* Once information is placed online, it is difficult to delete
+* Authentication measures such as strong password and multi-factor authentication protect devices and information from unauthorized access
+* Phishing: An attempt to trick a user into providing personal information, like your usernames and passwords, account numbers, or social security numbers
+
 ### Week 1
 
 ## 5.3 Notes
