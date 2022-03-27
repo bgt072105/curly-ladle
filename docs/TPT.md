@@ -36,6 +36,15 @@
 
 ## 5.5 Activity
 
+Question 1:
+
+* Creative Commons License - allows people to use your work but also states what people can and cannot do with your work
+* Open Source MIT License - open source program that is free for anyone to use and is good for making and distributing closed source versions
+* Open Source GPL License - also an Open Source License which prevents distribution of closed source versions and provides a lot of flexibiility with what you can do with that work 
+
+Question 2:
+
+* We ended up choosing the Creative Commons License for our team repository. We ultimately made this decision based on what we felt would work best for the overall purpose of our website. Our thinking was that we want the website to still be used, even after we are done with the CompSci principles class or even graduate from Del Norte. With the Creative Commons License, we are able to accomplish this goal as this allows future CompSci students or even other people to use the code that we have created and even make adjustments to our website. However, we are still able to set restrictions with what people are able to do with our code, which is ideal as it prevents people from abusing what we have created. I also ended up choosing the Creative Commons License for my personal repository. This was ideal for my personal repository are I can prevent people from copying or distributing my code, while still allowing people to use it.
 
 ## 5.6 Acitivty
 
