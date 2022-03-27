@@ -34,6 +34,35 @@
 * Authentication measures such as strong password and multi-factor authentication protect devices and information from unauthorized access
 * Phishing: An attempt to trick a user into providing personal information, like your usernames and passwords, account numbers, or social security numbers
 
+## 5.5 Activity
+
+
+## 5.6 Acitivty
+
+Question 1:
+
+* Some example of PII I have seen in our Computer Science Principles project include the information that we have entered into our CRUD databases. Our CRUD databases have included information such as our name, email, and phone number, all of which are considered forms of personally identifiable information. Thus, our CRUD databases have been an instance where I've seen PII in our Computer Science Principles project.
+
+Question 2:
+
+* The exposure of my PII and the concept of PII in general rather scares me. It is crazy to me that a simple Google search has the capability to bring up so much information about an individual, such as their phone number, email address, home address, and more. I am concerned that if my PII were to be exposed, people could have the ability to stalk me, both online and in real life, which is a rather terrifying thought.
+
+Question 3:
+
+* A good password should contain a minimum of 10 characters, with a mixture of symbols, numbers, and letters. A bad password would either contain less than 10 characters and only have letters. A bad password could also be something that could be easily guessed, such a particular name, word, or birthday. Another step that could be used in authentication is multi-factor authentication. Multi-factor authentication could involve sending a code to a separate device that is then used to sign into an account. Multi-factor authentication just provides an extra layer of security for you and your password protected accounts.
+
+Question 4:
+
+* Symmetric encryption is when both the sender and receiver have a private key, hence the name symmetric since the sender and receiver both have private keys. Asymmetric encryption is when the sender has a public key, but then the receiver was a private key that must be used in order to decrypt the information that the sender has sent to the receiver, hence the name asymmetric since the sender's key is public while the receiver's key is private.
+
+Question 5:
+
+* An example of encryption we used in deployment is 
+
+Question 6:
+
+* I have personally not been the target of a phishing scheme, but I personally know someone that has. In this particular instance, they were sent an email from what appeared to be their bank, asking them to login to make some adjustments to their account. However, it was really their bank that sent them this email. They would've been able to tell if they had looked at the email's domain, which was @gmail.com instead of the bank's actual domain. They ended up clicking on the link and entering their bank login info when prompted to "login" to their account. Thankfully, this person realized their mistake quickly enough to change their password quickly enough to prevent any permanent damage being done to their bank account. This just goes to show how easy it is to fall for a phishing scheme. This is only one example of the numerous different methods of phishing. Other examples of phishing include asking for people's information, usually credit card information of banking information, over the phone by posing as the IRS or some other agency. People may also try other tactics of phishing via email by impersonating somebody in order to get some type of information from a particular person.
+
 ### Week 1
 
 ## 5.3 Notes
