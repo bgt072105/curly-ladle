@@ -13,6 +13,7 @@ from week1 import fibonacci
 from week1 import factorial
 from week2 import factorial2
 from week2 import gcdOOP
+from week2 import gcdImperative
 
 main_menu = [
 ]
@@ -27,7 +28,8 @@ sub_menu_math = [
     ["fibonacci", fibonacci.fib_tester],
     ["factorialClass", factorial2.fac2_tester],
     ["factorial", factorial.fac_tester],
-    ["gcdOOP", gcdOOP.GCD_tester]
+    ["gcdOOP", gcdOOP.GCD_OOP_tester],
+    ["gcdImperative", gcdImperative.GCD_Imperative_tester]
 ]
 
 sub_menu_data = [

@@ -24,8 +24,8 @@ class GCD:
             return self()
 
 
-def GCD_tester():
-    num = int(input("Enter a number: "))
+def GCD_OOP_tester():
+    num1 = int(input("Enter a number: "))
     num2 = int(input("Enter a second number: "))
-    GCD_instance = GCD(num,num2)
+    GCD_instance = GCD(num1,num2)
     print("GCD: ", GCD_instance())
