@@ -3,26 +3,34 @@
 # each import enables us to use logic that has been abstracted to other files and folders
 # import loopy
 # import mathpy
-import tree
-import funcy
-import swapNumbers
-import matrix
+from week0 import tree
+from week0 import funcy
+from week0 import swapNumbers
+from week0 import matrix
 # import patterns
-from info import infoDB
-from factorial import fac_tester
-from fibonacci import fib_tester
+from week1 import info
+from week1 import fibonacci
+from week1 import factorial
+from week2 import factorial2
 
 main_menu = [
-    ["swapNumbers", swapNumbers.swapnumbers],
-    ["matrix", matrix.keypad],
-    ["info", infoDB],
-    ["fibonacci", fib_tester],
-    ["factorial", fac_tester],
 ]
 
-sub_menu = [
+sub_menu_animations = [
     ["Tree", tree.tree],
     ["Funcy", funcy.person],
+]
+
+sub_menu_math = [
+    ["swapNumbers", swapNumbers.swapnumbers],
+    ["fibonacci", fibonacci.fib_tester],
+    ["factorialClass", factorial2.fac2_tester],
+    ["factorial", factorial.fac_tester],
+]
+
+sub_menu_data = [
+    ["matrix", matrix.keypad],
+    ["info", info.infoDB],
 ]
 
 # Menu banner is typically defined by menu owner
@@ -32,13 +40,23 @@ banner = f"\n{border}\nPlease Select An Option\n{border}"
 def menu():
     title = "Function Menu" + banner
     menu_list = main_menu.copy()
-    menu_list.append(["submenu", submenu])
+    menu_list.append(["data", submenu_data])
+    menu_list.append(["math", submenu_math])
+    menu_list.append(["animations", submenu_animations])
     buildMenu(title, menu_list)
 
 
-def submenu():
+def submenu_data():
     title = "Function Submenu" + banner
-    buildMenu(title, sub_menu)
+    buildMenu(title, sub_menu_data)
+
+def submenu_math():
+    title = "Function Submenu" + banner
+    buildMenu(title, sub_menu_math)
+
+def submenu_animations():
+    title = "Function Submenu" + banner
+    buildMenu(title, sub_menu_animations)
 
 def buildMenu(banner, options):
     # header for menu
