@@ -66,7 +66,7 @@ Question 4:
 
 Question 5:
 
-* An example of encryption we used in deployment is 
+* An example of encryption we used in deployment is when we used Certbot. Certbot allows us to secure our website through the use of encryption.
 
 Question 6:
 
