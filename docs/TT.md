@@ -6,6 +6,17 @@
 
 <iframe height="1000px" width="800px" src="https://replit.com/@bgt072105/curly-ladle?lite=true#main.py"></iframe>
 
+### Week 2
+[Major Commit (on GitHub)]()
+
+[Code on Replit](https://replit.com/join/shwebjagoo-bgt072105)
+
+Key Takeaways:
+* I practiced writing a math function using classes
+* I practiced creating a function that does the same thing, except the code is written imperatively rather than in OOP form
+
+
+
 ### Week 1
 [Major Commit (on GitHub)](https://github.com/bgt072105/curly-ladle/commit/421a528084577742ca3caa54ae8882048602d509)
 
