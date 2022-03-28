@@ -2,7 +2,7 @@
 
 ## Brian Tang GitHub Page
 
-## Week 1 Review Ticket
+## Week 2 Review Ticket
 
 [Review Ticket](https://github.com/bgt072105/curly-ladle/issues/3)
 
