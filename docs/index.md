@@ -4,7 +4,7 @@
 
 ## Week 1 Review Ticket
 
-[Review Ticket]()
+[Review Ticket](https://github.com/bgt072105/curly-ladle/issues/3)
 
 ## Week 1 Review Ticket
 
