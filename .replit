@@ -1,2 +1,2 @@
 language = "python"
-run = "python3 .idea/pythonMenu/menu.py"
+run = "python3 pythonMenu/menu.py"
