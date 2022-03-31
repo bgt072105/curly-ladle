@@ -1,6 +1,11 @@
 {% include navigation.html %}
 
 ### TPT Activites
+| Week + Link |
+| ----------- |
+| [Week 2](#Week-2) |
+| [Week 1](#Week-1) |
+| [Week 0](#Week-0) |
 
 ### Week 2
 
