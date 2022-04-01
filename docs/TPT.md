@@ -13,7 +13,7 @@
   <td><a href="#Week-1">Week 1</a></td>
 </tr>
 <tr>
-  <td><a href="#Week-0">Week 0>/a></td>
+  <td><a href="#Week-0">Week 0</a></td>
  </tr>
 </table>
 
