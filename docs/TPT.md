@@ -1,11 +1,21 @@
 {% include navigation.html %}
 
-# TPT Activites
-| Week + Link |
-| ----------- |
-| [Week 2](#Week-2) |
-| [Week 1](#Week-1) |
-| [Week 0](#Week-0) |
+# TPT Activities
+
+<table>
+ <tr>
+  <th>Week + Link</th>
+ </tr>
+ <tr>
+   <td><a href="#Week-2">Week 2</a></td>
+ </tr>
+<tr>
+  <td><a href="#Week-1">Week 1</a></td>
+</tr>
+<tr>
+  <td><a href="#Week-0">Week 0>/a></td>
+ </tr>
+</table>
 
 ## Week 2
 
