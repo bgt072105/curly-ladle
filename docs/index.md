@@ -1,6 +1,6 @@
 {% include navigation.html %}
 
-## Brian Tang GitHub Page
+# Brian Tang GitHub Page
 
 ## [Week 2 Review Ticket](https://github.com/bgt072105/curly-ladle/issues/3)
 
