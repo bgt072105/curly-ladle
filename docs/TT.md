@@ -6,6 +6,14 @@
 
 <iframe height="1000px" width="800px" src="https://replit.com/@bgt072105/curly-ladle?lite=true#main.py"></iframe>
 
+### Week
+
+| Week + Link |
+| ----------- |
+| [Week 2](#Week-2) |
+| [Week 1](#Week-1) |
+| [Week 0](#Week-0) |
+
 ### Week 2
 [Major Commit (on GitHub)](https://github.com/bgt072105/curly-ladle/commit/b2452959b694c1b35c2480bf824b8d706c2e6d4b)
 
