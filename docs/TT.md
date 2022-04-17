@@ -18,7 +18,8 @@
 [Major Commit (on GitHub)](https://github.com/tangalice/nighthawk_csp/commit/8a8795c397034315bfed7d05bd75a77bb8ac080a)
 
 Key Takeaways:
-* 
+* I learned how to add login required to specific pages on a website
+* I practiced adding a new field for the sign up screen
 
 ```
 @app_crud.route('/logout/', methods=["GET", "POST"])
