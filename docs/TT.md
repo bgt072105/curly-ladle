@@ -14,6 +14,35 @@
 | [Week 1](#Week-1) |
 | [Week 0](#Week-0) |
 
+### Week 4
+[Major Commit (on GitHub)](https://github.com/tangalice/nighthawk_csp/commit/8a8795c397034315bfed7d05bd75a77bb8ac080a)
+
+Key Takeaways:
+* 
+
+```
+@app_crud.route('/logout/', methods=["GET", "POST"])
+def crud_logout():
+    # obtains form inputs and fulfills login requirements
+    logout()
+    return render_template("login.html")
+```
+```
+def authorize(name, email, password, phone):
+    if is_user(email, password):
+        return False
+    else:
+        auth_user = Users(
+            name=name,
+            email=email,
+            password=password,
+            phone=phone # this should be added to authorize.html
+        )
+        # encrypt their password and add it to the auth_user object
+        auth_user.create()
+        return True
+```
+
 ### Week 2
 [Major Commit (on GitHub)](https://github.com/bgt072105/curly-ladle/commit/b2452959b694c1b35c2480bf824b8d706c2e6d4b)
 
