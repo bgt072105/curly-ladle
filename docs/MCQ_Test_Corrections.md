@@ -11,7 +11,7 @@ Q 25 - I picked option A, but option C was correct because the Creative Commons 
 
 Q 32 - I picked option B, but option C was correct because moving the statement in line 5 so that it appears between lines 2 and 3 would allow count to be initialized outside of the for loop.
 
-Q 37 - I picked option B, but option D was correct because when x=3, y=2, and z=1 the program would not find the max to be 3, the value of x.
+Q 37 - I picked option B, but option D was correct because when x=3, y=2, and z=1 the program would not find the max to be 3, which is the value of x.
 
 ## Finals Quiz 2
 ### Score: 49/50
