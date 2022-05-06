@@ -33,3 +33,16 @@ Q 6 - I picked options A and C but the correct answer was options A and D becaus
 Q 8 - I pickeds option B, but option D was correct because the algorithm in option D selects 1 student from the group of 30 students, then selects another student from the remaining 29 students. Any possible pair of students is equally likely to be selected.
 
 Q 41 - I picked option A, but option D was correct because in public cryptography, a message is encrypted with a recipient’s public key and decrypted with the recipient’s private key.
+
+## Finals Quiz 5
+### Score: 45/50
+
+Q 16 - I picked option C, but option A is correct because program A initializes i to 1. Inside the loop, it prints i and then increments i. The loop terminates when i is greater than 10, which occurs after 10 is printed. Program A prints 1 2 3 4 5 6 7 8 9 10. Program B initializes i to 0. Inside the loop, it increments i and then prints i. The loop terminates when i equals 10, which occurs after 10 is printed. Program B prints 1 2 3 4 5 6 7 8 9 10.
+
+Q 17 - I picked option A, but option D is correct because version I calls the GetPrediction procedure once for each element of idList, or four times total. Since each call requires 1 minute of execution time, version I requires approximately 4 minutes to execute. Version II calls the GetPrediction procedure twice for each element of idList, and then again in the final display statement. This results in the procedure being called nine times, requiring approximately 9 minutes of execution time.
+
+Q 26 - I picked option D, but option A is correct because the variable count is initially set to 0 and is incremented only when the current item in the list (represented by the variable n) equals the value of the variable target.
+
+Q 36 - I picked option B, but option A is correct because digital data on the Internet is sent by breaking data into blocks of bits called packets. The packets are reassembled by the user’s computer.
+
+Q 45 - I picked option B, but option C is correct because both code segments display the correct average. Code segment I requires more arithmetic operations because it performs the operation sum / LENGTH (numList) within the loop, while code segment II performs the same operation only once.
