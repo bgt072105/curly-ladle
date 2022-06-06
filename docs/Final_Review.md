@@ -4,6 +4,10 @@
 
 [Local Storage for Notepad](https://github.com/kamryns/curlycupboard3.0/commit/394a2ee1f6392e11a596890e4e36a89d980eecd4)
 
+* Notes can be stored using local storage
+* Notes stay even when page is left or reloaded
+* Delete functionality has also been added
+
 ```
     if(localStorage.getItem("noteText")===null){
         localStorage.setItem("noteText",'');
@@ -15,6 +19,10 @@
 ```
 
 [Implement Reviews Database](https://github.com/kamryns/curlycupboard3.0/commit/11aa05dee07b068e7494d826a06d1846ab215694)
+
+* Database stores books reviews
+* Uses Create, Read, Update, and Delete
+* Has search functionality to searchy by keyword
 
 ```
 @app_database.route('/')
@@ -79,6 +87,10 @@ def delete():
 
 [Create Discussion Board](https://github.com/kamryns/curlycupboard3.0/commit/5d3e390ed4c8f479795dba06921fbaa038b221bf)
 
+* Allows users to post comments
+* Uses POST method
+* Has delete function to delete the last comment added
+
 ```
 @app.route('/beginnerforum/')
 def beginnerforum():
@@ -103,6 +115,10 @@ def delete():
 ```
 
 [Add Dictionary](https://github.com/kamryns/curlycupboard3.0/commit/0af8e229e7f3691a0f32b9fddc499afee2a107ce)
+
+* Uses an API to find defintions
+* Provides noun, verb, adjective, and adverb definitions of words
+* Splits definitions up based on their part of speech
 
 ```
 @app.route('/dictionary/', methods=['GET','POST'])
